@@ -1,6 +1,6 @@
 # Emergence of Chimera States in Neuronal Models
 
-In this project, I designed and solved a dynamical system consisting of a regular network of FitzHugh-Nagumo (FHN) oscillators. An exotic phenomenon emerges: even though all neurons have identical parameters, after a sufficient amount of time, some neurons oscillate in phase while others disconnect from the synchronized group. As a result, a hybrid system of synchronized and desynchronized oscillators appears. I investigated the parameter regimes under which the system gives rise to a Chimera state.
+In this project, I designed and numerically solved a dynamical system consisting of a regular network of FitzHugh-Nagumo (FHN) oscillators. An exotic phenomenon emerges: even though all neurons have identical parameters, after a sufficient amount of time, some neurons oscillate in phase while others disconnect from the synchronized group. As a result, a hybrid system of synchronized and desynchronized oscillators appears. I investigated the parameter regimes under which the system gives rise to a Chimera state.
 
 Below is a snapshot of the voltage of all neurons at a given time—the dislodged part shows asynchrony.
 For a more detailed analysis, please see this paper:
